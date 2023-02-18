@@ -1,0 +1,24 @@
+Скачать установитьpython
+Лучше создать новую venv т.к. может не подтягивать python
+в терминале
+                         python -m venv venv 
+.\venv\Scripts\activate
+pip install requests
+pip install bs4 
+pip install lxml
+pip install fake_useragent
+python main.py
+python second.py
+
+Невозможно загрузить файл
+Set-ExecutionPolicy RemoteSigned
+
+Сочетания клавиш в терминале
+Ctrl+Shift+` терминал
+Ctrl+C — прерывание выполняющейся команды или очистка текущей строки
+Ctrl-l – очищает экран
+Ctrl-r – Поиск по истории
+PgUp/PgDown – Поиск по истории
+Ctrl+-(+) - размер интрефейса
+Alt-# – текущую команду преобразовать в комментарий
+Alt-F7 - удалить историю
